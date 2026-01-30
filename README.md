@@ -1,92 +1,86 @@
-# 🛒 Amazon Store Sales Dashboard (Power BI)
-🚀 Project Summary
+# Amazon Store Sales Dashboard (Power BI)
 
-An interactive Power BI dashboard that analyzes Amazon store sales to track revenue, profitability, regional performance, and customer behavior. Built to support data-driven business decisions through clear KPIs and actionable insights.
+## 📌 Project Overview
+This project focuses on analyzing Amazon store sales data to derive actionable business insights related to revenue, profitability, customer behavior, and regional performance. An interactive Power BI dashboard was built to support data-driven decision-making for sales and operations teams.
 
-## 🧩 Business Use Case
+---
 
-Amazon operates across multiple regions and product categories, making it challenging to quickly identify top-performing segments, profit drivers, and seasonal trends. This dashboard solves that by centralizing insights into one interactive view.
+## 🧩 Business Problem
+Amazon operates across multiple regions, categories, and customer segments. Raw sales data alone makes it difficult to:
+- Identify high-performing products and regions
+- Track profitability alongside sales
+- Understand seasonal and regional trends
+- Analyze customer payment and shipping preferences
 
-## 🎯 Key Objectives
+This dashboard centralizes key metrics and insights into a single, easy-to-use analytical view.
 
-* Monitor Sales, Profit, Orders, and Products in real time
+---
 
-* Compare regional and state-wise performance
+## 🎯 Objectives
+- Track overall **Sales, Profit, Orders, and Quantity**
+- Compare **regional and state-wise performance**
+- Identify **high-profit categories and sub-categories**
+- Analyze **customer payment and shipping modes**
+- Monitor **quarterly and seasonal sales trends**
 
-* Identify high-profit categories and sub-categories
+---
 
-* Analyze customer payment and shipping preferences
+## 📊 Key Business Insights
+- Technology and Office Supplies are the top revenue-generating categories
+- Certain sub-categories generate higher profit despite lower order volumes
+- Online and Cash on Delivery (COD) are the most preferred payment modes
+- Sales show clear quarterly and seasonal patterns
+- Regional analysis highlights states with strong growth potential
 
-* Track quarterly and seasonal sales trends
+---
 
-## 📊 Key Insights
+## 🛠 Tools & Technologies Used
+- **Power BI** – Dashboard development and visualization  
+- **Power Query** – Data cleaning, transformation, and preparation  
+- **DAX** – KPI calculations and performance metrics  
+- **Excel / CSV** – Source data preprocessing  
 
-* Technology & Office Supplies are major revenue contributors
+---
 
-* Some sub-categories deliver high profit with fewer orders
+## 📂 Dataset Description
+The dataset contains transactional sales data with the following fields:
+- Order ID, Order Date  
+- Customer Segment  
+- Region and State  
+- Product Category and Sub-Category  
+- Sales, Profit, Quantity  
+- Payment Mode, Shipping Mode  
 
-* Online and COD payments dominate transactions
+---
 
-* Sales show clear seasonal and quarterly fluctuations
+## 📈 Dashboard Features
+- KPI cards for quick performance tracking
+- Bar charts for category and sub-category comparison
+- Line charts for seasonal and quarterly trends
+- Donut charts for customer segment, payment mode, and shipping mode analysis
+- Map visualization for state-wise sales performance
+- Interactive filters for region and state selection
 
-* Regional analysis highlights growth opportunities by state
+---
 
-## 🛠 Tools & Technologies
+## 💡 Skills Demonstrated
+- Data cleaning and transformation
+- KPI design and business reporting
+- Sales and profitability analysis
+- Data visualization best practices
+- Business storytelling using dashboards
+- Power BI, DAX, Power Query, Excel
 
-* Power BI – Dashboard development & interactivity
+---
 
-* DAX – KPI calculations and performance metrics
+## 🚀 Why This Project Matters
+This project demonstrates the ability to convert raw business data into meaningful insights, supporting decision-making in sales and operations. It reflects core skills required for **Data Analyst, Business Analyst, MIS, and BI roles**.
 
-* Power Query – Data cleaning & transformation
+---
 
-* Excel / CSV – Data preprocessing
+## 📎 Files Included
+- `Amazon Store Sales Dashboard.pbix` – Power BI dashboard file  
+- `Amazon Store Sales Data.xlsx` – Source dataset  
+- `README.md` – Project documentation  
 
-## 📂 Dataset Overview
-
-* Order ID, Order Date
-
-* Customer Segment
-
-* Region & State
-
-* Category & Sub-Category
-
-## Sales, Profit, Quantity
-
-* Payment Mode, Ship Mode
-
-## 📌 Dashboard Features
-
-* KPI Cards for quick performance tracking
-
-* Donut Charts for segment, payment, and ship mode analysis
-
-* Bar Charts for category & sub-category performance
-
-* Line Chart for seasonal trends
-
-* Clustered Columns for sales vs profit comparison
-
-* Map Visualization for state-wise sales analysis
-
-* Interactive filters for region and state selection
-
-## 📸 Dashboard Preview
-
-*  Skills Demonstrated
-
-* Business analytics & storytelling
-
-* Data modeling and KPI design
-
-* Dashboard UX & visualization best practices
-
-* Sales and profitability analysis
-
-* Power BI, DAX, Power Query
-
-📈 Why This Project Matters
-
-This project demonstrates the ability to translate raw sales data into business insights, a core skill for Data Analyst, Business Analyst, and BI roles.
-
-<img width="709" height="396" alt="image" src="https://github.com/user-attachments/assets/526b79ef-e36a-4d77-bace-b6d759d0425e" />
+s://github.com/user-attachments/assets/526b79ef-e36a-4d77-bace-b6d759d0425e" />
