@@ -83,4 +83,3 @@ This project demonstrates the ability to convert raw business data into meaningf
 - `Amazon Store Sales Data.xlsx` – Source dataset  
 - `README.md` – Project documentation  
 
-s://github.com/user-attachments/assets/526b79ef-e36a-4d77-bace-b6d759d0425e" />
